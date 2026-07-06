@@ -1,3 +1,5 @@
+<img width="1513" height="1002" alt="Screenshot 2026-07-06 235054" src="https://github.com/user-attachments/assets/79b0f81b-fa7e-4ce9-b10c-335b288dfefe" />
+
 # Missed Pickup Analysis Dashboard
 
 📊 A data analysis dashboard built to evaluate transport vendor performance on missed pickups, highlighting cost impact and reliability.
