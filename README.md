@@ -55,6 +55,9 @@ This dashboard helps logistics and operations teams:
 ---
 
 ## 🚀 How to Use
-1. Clone the repository:
+1. view the repository:
    ```bash
    https://github.com/GaneshKoushick/Missed_Pickup_Analysis_Dashboard.git
+2. Clone the repository:
+   ```bash
+   git clone https://github.com/GaneshKoushick/Missed_Pickup_Analysis_Dashboard.git
